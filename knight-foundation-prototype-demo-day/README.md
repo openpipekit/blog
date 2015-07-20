@@ -1,4 +1,4 @@
-# Open Pipe Kit at the Knight Foundation Prototype Fund Demo Day
+# Using the Open Pipe Kit to take thumb temperatures at the Knight Foundation Prototype Fund Demo Day
 
 ![R.J. Steinert piping the thumb temperature of Chris Barr, Knight Foundation's Director of Media Innovation. ](taking-thumb-temperatures.jpeg)
 
