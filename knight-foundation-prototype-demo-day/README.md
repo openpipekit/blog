@@ -5,7 +5,7 @@
 
 Last Friday I (R.J. Steinert) had the honor of attending the Knight Prototype Fund Demo Day to present the work our small team has done to help make collecting data with sensors more approachable by everyday people. We could not have gotten this far without their help so a big thanks to the folks at the Knight Foundation! 
 
-We started with presentations in the morning where I presented on the progress our project had made. It was wonderful to get all the positive feedback from my peers, the only thing I wish was that someone had some more critical advice. It was wonderful to seeing everyone else's presentations as well. To think that only six months ago, most of our projects were just an idea. Good job buddies!
+We started with presentations in the morning where I presented on the progress our project had made. It was wonderful to get all the positive feedback from my peers, the only thing I wish was that someone had some more critical advice. It was wonderful seeing everyone else's presentations as well. To think that only six months ago, most of our projects were just an idea. Good job buddies!
 
 I then had fun sporting an Open Pipe Kit in my shirt pocket and running around taking thumb temperatures as my demo. As I took a person's thumb temperature I explained how the data from their thumb was travelling to the Internet because of a file I generated using the Open Pipe Kit Bakery that was then placed on a USB Drive and then plugged into the Raspberry Pi in my pocket.  
 
