@@ -2,6 +2,7 @@
 <div class="alert alert-info" role="alert">More and more we're able to capture the data around us and send it to the Internet. But do we have control of our data? What if a corporation hasn't made a widget for what we want to capture? Our goal is to democratize the Internet of Things.</div> 
 
 __Posts__
+- [July 21, 2015: Does the Open Pipe Kit lower the barrier to sensor data collection? We need your help.](2015-07-21--does-opk-lower-the-barrier.md)
 - [July 17, 2015: Using the Open Pipe Kit to take thumb temperatures at the Knight Foundation Prototype Fund Demo Day](knight-foundation-prototype-demo-day/README.md)
 
 __Join us__
