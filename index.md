@@ -2,7 +2,7 @@
 More and more we're able to capture the data around us and send it to the Internet. But do we have control of our data? What if a corporation hasn't made a widget for what we want to capture? Our goal is to democratize the Internet of Things. 
 
 __Posts__
-- [Using the Open Pipe Kit to take thumb temperatures at the Knight Foundation Prototype Fund Demo Day -- July 17, 2015](knight-foundation-prototype-demo-day/README.md)
+- [July 17, 2015: Using the Open Pipe Kit to take thumb temperatures at the Knight Foundation Prototype Fund Demo Day](knight-foundation-prototype-demo-day/README.md)
 
 __Join us__
 - Join the conversation on this project, [join our email group](https://groups.google.com/forum/#!forum/open-pipe-kit).
