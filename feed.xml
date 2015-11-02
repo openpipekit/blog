@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Open Pipe Kit Blog</title>
+    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://localhost:8080</link>
+    <description>Connecting the Internet of Things with Open Source Pipes</description>
+    <pubDate>Tue, 16 Jul 2013 20:00:00 -0400</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>Open Pipe Kit at the Knight Foundation Demo Day</title>
+      <link>http://localhost:8080/articles/knight-foundation-prototype-demo-day/</link>
+      <pubDate>Tue, 16 Jul 2013 20:00:00 -0400</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/knight-foundation-prototype-demo-day/</guid>
+      <author></author>
+      <description>&lt;h1 id=&quot;using-the-open-pipe-kit-to-take-thumb-temperatures-at-the-knight-foundation-prototype-fund-demo-day&quot;&gt;Using the Open Pipe Kit to take thumb temperatures at the Knight Foundation Prototype Fund Demo Day&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/knight-foundation-prototype-demo-day/taking-thumb-temperatures.jpeg&quot; alt=&quot;R.J. Steinert piping the thumb temperature of Chris Barr, Knight Foundation&amp;#39;s Director of Media Innovation. &quot;&gt;&lt;/p&gt;
+&lt;p&gt;Last Friday I (R.J. Steinert) had the honor of attending the Knight Prototype Fund Demo Day to present the work our small team has done to help make collecting data with sensors more approachable by everyday people. We could not have gotten this far without their help so a big thanks to the folks at the Knight Foundation! &lt;/p&gt;
+&lt;p&gt;We started with presentations in the morning where I presented on the progress our project had made. It was wonderful to get all the positive feedback from my peers, the only thing I wish was that someone had some more critical advice. It was wonderful seeing everyone else’s presentations as well. To think that only six months ago, most of our projects were just an idea. Good job buddies!&lt;/p&gt;
+&lt;p&gt;I then had fun sporting an Open Pipe Kit in my shirt pocket and running around taking thumb temperatures as my demo. As I took a person’s thumb temperature I explained how the data from their thumb was travelling to the Internet because of a file I generated using the Open Pipe Kit Bakery that was then placed on a USB Drive and then plugged into the Raspberry Pi in my pocket.  &lt;/p&gt;
+&lt;p&gt;In the following graph you can see every spike is a time I took someone’s thumb termperature. The pipe was configured to run every 15 seconds and sent data to Phant. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/knight-foundation-prototype-demo-day/thumb-temperatures.png&quot; alt=&quot;Thumb temperatures of Knight&quot;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://plot.ly/~rjsteinert/34/col1/?share_key=OA9F0Iar7QnemmMoUAillf&quot;&gt;Check out the graph on Plotly here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://data.sparkfun.com/streams/AJOJ0mxKQDtJ2qdMV7rM&quot;&gt;Check out the original data on Phant here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;By the end of the day I found the hottest thumb in the room, 95 degrees.  This turned out to be pretty similar to ambient temperature outside so as soon as the event moved outdoors, my little trick no longer worked as well. Some other Knight Prototype Fund grantees played around with what kind of temperature differential we would find by applying pressure to their thumb during the test. The conculusion was that it would add about 3 to 4 degrees.  &lt;/p&gt;
+&lt;p&gt;The Open Pipe Kit project has a lot of work ahead of us. We won’t have funding from here on out but we hope to find a way to polish and make stable our prototype, the Open Pipe Kit Bakery. Thanks again to the Knight Foundation folks and good luck to all my peers in this round of the Knight Foundation Prototype Fund!&lt;/p&gt;
+&lt;p&gt;– R.J. Steinert&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
